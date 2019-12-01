@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/qcjn/gitpod/issues"
   },
-  "homepage": "https://github.com/qcjn/gitpod#readme"
+  "homepage": "https://github.com/qcjn/gitpod#readme",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
 }
